@@ -36,7 +36,23 @@
 
 ## 📸 Screenshots
 
-> (Add screenshots or GIFs showing the functionality in action.)
+### 🔐 Login Screen
+![Login Screen](./screenshots/login-screen.png)
+
+---
+
+### 📝 CV View – Template 1
+![CV View 1](./screenshots/cv-view-1.png)
+
+---
+
+### 📝 CV View – Template 2
+![CV View 2](./screenshots/cv-view-2.png)
+
+---
+
+### ⚙️ Tech Stack Used
+![Tech Stack](./screenshots/tech-stack-used.png)
 
 ---
 
