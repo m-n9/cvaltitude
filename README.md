@@ -121,17 +121,6 @@ CVAltitude isn't just a resume builder — it's also:
 
 ---
 
-## 🤹‍♂️ Fun Modes (for screenshots / demos)
-
-Add hilarious experience like:
-
-> 🦇 *Batman @ Marvel*  
-> 🐺 *Jon Snow @ Night's Watch*  
-> 🧙 *Hogwarts School of Wizardry*  
-> 🧠 *ThroneTrack: Westeros War Planner*
-
----
-
 ## 📄 License
 
 MIT — free for personal and educational use.
